@@ -1,0 +1,42 @@
+ <!DOCTYPE html>
+   <html>
+<title>Diary Entries</title>
+</head>
+<body>
+<h3><center><font color=green size= 160>MyDiary</font></center></h3><style>
+   body{
+   background-image:url("dear.jpg");
+   }
+  </style>
+ <table border=2bgclor=lavender cellspacing=2 cellpadding=6>
+<caption>creating a table</caption>
+<th align=center colspan=3>quater 1</th>
+<th align=center colspan=3>quater 2</th>
+<tr>
+<tr>
+<td>Sunday</td>
+<td>Monday</td>
+<td>tuesday</td>
+<td>Wensday</td>
+<td>Thursday</td>
+<td>Friday</td>
+<td>Saturday</td
+<tr>
+<td>Suzan</td>
+<td>Mary</td>
+<td>Stacy</td>
+<td>Wendy</td>
+<td>Thomas</td>
+<td>Fred</td>
+<td>Simon</td>
+<tr>
+ <td>Start challenge</td>
+<td>Study and research</td>
+<td>Code</td>
+<td>Edit</td>
+<td>Review</td>
+<td>Discuss</td>
+<td>Submit</td>
+</table>
+</body>
+</html>
